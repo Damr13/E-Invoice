@@ -1,0 +1,9 @@
+#myContent #card-table-events {
+  background-color: transparent;
+}
+#myContent #card-table-events .myCard-content {
+  text-align: center;
+}
+#myContent #card-table-events .pagination {
+  gap: 0.25rem;
+}/*# sourceMappingURL=events.css.map */

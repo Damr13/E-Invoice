@@ -1,0 +1,114 @@
+{
+  "data-invoiced" : [
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "-",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "BELUM KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "Rejected",     
+      "posisidok" : "VERIFIKASI",     
+      "statusdok" : "TERIMA",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "Rejected",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "Rejected",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "TERIMA",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "-",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "TERIMA",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "Rejected",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "-",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "Rejected",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "-",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    },
+    {
+      "invdate" : "000001",     
+      "noinv" : "inv/test/1",     
+      "nopo" : "000001",     
+      "baseamount" : "IDR 30.000.000",     
+      "lastedit" : "02-01-2021",     
+      "status" : "-",     
+      "posisidok" : "VENDOR",     
+      "statusdok" : "KIRIM",     
+      "aksi" : "<button><i class='fa fa-edit'></i></button>,<button><i class='far fa-list-alt'></i></button>"    
+    }
+  ]
+}

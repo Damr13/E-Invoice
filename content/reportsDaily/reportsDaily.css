@@ -1,0 +1,28 @@
+#content-wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-areas: "card1 card1 card2" "card3 card3 card2" "card4 card5 card2" "card4 card6 card7";
+  gap: 1rem;
+}
+#content-wrap #card1 {
+  grid-area: card1;
+}
+#content-wrap #card2 {
+  grid-area: card2;
+}
+#content-wrap #card3 {
+  grid-area: card3;
+}
+#content-wrap #card4 {
+  grid-area: card4;
+}
+#content-wrap #card5 {
+  grid-area: card5;
+}
+#content-wrap #card6 {
+  grid-area: card6;
+}
+#content-wrap #card7 {
+  grid-area: card7;
+}/*# sourceMappingURL=reportsDaily.css.map */

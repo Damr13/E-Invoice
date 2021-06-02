@@ -1,0 +1,36 @@
+{
+  "name" : "Irsyad",
+  "short_name" : "invoice",
+  "start_url" : "index.html",
+  "display" : "fullscreen",
+  "background_color" : "#084DA5",
+  "theme_color": "#084DA5",
+  "description" : "My Design",
+  "orientation": "portrait",
+  "icons" : [
+    {
+      "src"   : "../invoice/assets/icons/icon-192x192.png",
+      "type"  : "image/png",
+      "sizes" : "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src"   : "../invoice/assets/icons/icon-256x256.png",
+      "type"  : "image/png",
+      "sizes" : "256x256",
+      "purpose": "maskable any"
+    },
+    {
+      "src"   : "../invoice/assets/icons/icon-384x384.png",
+      "type"  : "image/png",
+      "sizes" : "384x384",
+      "purpose": "maskable any"
+    },
+    {
+      "src"   : "../invoice/assets/icons/icon-512x512.png",
+      "type"  : "image/png",
+      "sizes" : "512x512",
+      "purpose": "maskable any"
+    }
+  ]
+}

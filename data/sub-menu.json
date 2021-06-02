@@ -1,0 +1,64 @@
+{
+  "menus" : {
+    "dashboard" : {
+      "name"      : "Dashboard",
+      "order"     : "1",
+      "icon"      : "tachometer-alt",
+      "status"    : true,
+      "sub-menus" : ""
+    },
+    "events" : {
+      "name"      : "Transactions",
+      "order"     : "2",
+      "icon"      : "folder-open",
+      "status"    : true,
+      "sub-menus" : {
+        "events" : {
+          "name"      : "Good Receive Notes",
+          "order"     : "1",
+          "icon"      : "file"
+        },   
+        "invoiced" : {
+          "name"      : "Invoiced",
+          "order"     : "2",
+          "icon"      : "file"
+        },   
+        "payment" : {
+          "name"      : "Payment",
+          "order"     : "3",
+          "icon"      : "file"
+        }  
+      }
+    },
+    "reports" : {
+      "name"      : "Reports",
+      "order"     : "3",
+      "icon"      : "file",
+      "status"    : true,
+      "sub-menus" : {
+        "reportsDaily" : {
+          "name"      : "Daily - Reports",
+          "order"     : "1",
+          "icon"      : "file"
+        },   
+        "sub-reports2" : {
+          "name"      : "Sub - Reports 2",
+          "order"     : "2",
+          "icon"      : "file"
+        },   
+        "sub-reports3" : {
+          "name"      : "Sub - Reports 3",
+          "order"     : "3",
+          "icon"      : "file"
+        }
+      }
+    },
+    "logout" : {
+      "name"      : "Log Out",
+      "order"     : "4",
+      "icon"      : "power-off",
+      "status"    : true,
+      "sub-menus" : ""
+    }
+  }
+}
